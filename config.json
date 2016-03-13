@@ -1,0 +1,7 @@
+{
+    "hostname" : "localhost",
+    "username" : "root",
+    "password" : "holamundo",
+    "database" : "ws_example",
+    "port" : "3306"
+}
